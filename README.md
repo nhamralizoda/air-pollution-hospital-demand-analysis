@@ -107,7 +107,7 @@ A key breakthrough occurred after centering predictor variables and introducing 
 
 ### Correlation Matrix
 
-figures/correlation-matrix.png
+![alt text](figures/correlation-matrix.png)
 
 ### Final Model Summary and Diagnostics
 
