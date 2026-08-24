@@ -211,15 +211,15 @@ My contributions included:
 
 📊 Presentation
 
-[View Presentation](../presentation/Project_Presentation.pdf)
+[View Presentation](../main/presentation/Project_Presentation.pdf)
 
 📄 Full Technical Report
 
-[Final Report](../report/Final_Report.pdf)
+[Final Report](../main/report/Final_Report.pdf)
 
 💻 Source Code
 
-[View R Script](../src/analysis.R)
+[View R Script](../main/src/analysis.R)
 
 ---
 
