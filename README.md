@@ -212,13 +212,13 @@ My contributions included:
 📊 Presentation
 
 ```
-[View](presentation/Project_Presentation.pdf)
+[View Presentation](presentation/Project_Presentation.pdf)
 ```
 
 📄 Full Technical Report
 
 ```
-[View/report/Final_Report.pdf)
+[I'm a relative reference to a repository file](/report/Final_Report.pdf)
 ```
 
 💻 Source Code
