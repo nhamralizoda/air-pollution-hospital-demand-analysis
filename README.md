@@ -211,19 +211,15 @@ My contributions included:
 
 📊 Presentation
 
-```
-[View Presentation](presentation/Project_Presentation.pdf)
-```
+[View Presentation](../presentation/Project_Presentation.pdf)
 
 📄 Full Technical Report
 
-[I'm a relative reference to a repository file](../report/Final_Report.pdf)
+[Final Report](../report/Final_Report.pdf)
 
 💻 Source Code
 
-```
-[View R Script](src/analysis.R)
-```
+[View R Script](../src/analysis.R)
 
 ---
 
