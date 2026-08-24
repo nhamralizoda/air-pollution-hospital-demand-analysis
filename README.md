@@ -109,13 +109,31 @@ A key breakthrough occurred after centering predictor variables and introducing 
 
 ![alt text](figures/correlation-matrix.png)
 
-### Final Model Summary and Diagnostics
+Exploratory analysis of relationships among environmental and health variables.
 
-figures/final-model.png
+### Model Selection Process
+
+![alt text](figures/model-selection.png)
+
+Alternative modeling approaches, diagnostic testing, and model-selection decisions.
+
+### Final Model Diagnostics
+
+![alt text](figures/final-model.png)
+
+Final interaction model with centered predictors, diagnostic tests, and model performance statistics.
 
 ### Cross Validation Results
 
-figures/cross-validation.png
+![alt text](figures/cross-validation.png)
+
+Bootstrap validation results showing predictive stability and generalization performance.
+
+### Challenges Encountered
+
+![alt text](figures/challenges.png)
+
+Overview of modeling challenges, alternative approaches evaluated, and lessons learned throughout the analytical process.
 
 ---
 
@@ -193,20 +211,20 @@ My contributions included:
 
 📊 Presentation
 
-```text
-presentation/Project_Presentation.pdf
+```
+![alt text](presentation/Project_Presentation.pdf)
 ```
 
 📄 Full Technical Report
 
-```text
-report/Final_Report.pdf
+```
+![alt text]report/Final_Report.pdf)
 ```
 
 💻 Source Code
 
-```text
-src/analysis.R
+```
+![alt text]src/analysis.R)
 ```
 
 ---
