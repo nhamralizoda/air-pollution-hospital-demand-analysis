@@ -217,9 +217,7 @@ My contributions included:
 
 📄 Full Technical Report
 
-```
 [I'm a relative reference to a repository file](../report/Final_Report.pdf)
-```
 
 💻 Source Code
 
